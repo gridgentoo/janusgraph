@@ -1,5 +1,6 @@
-IBM Compose for JanusGraph: Conceptual Overview
 ![Image alt](https://i.ytimg.com/vi/zTaoMWv6lnE/maxresdefault.jpg)
+
+IBM Compose for JanusGraph: Conceptual Overview
 
 https://www.youtube.com/watch?v=zTaoMWv6lnE
 
