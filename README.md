@@ -18,7 +18,10 @@ Support for global graph data analytics, reporting, and ETL through integration 
 * Apache Giraph™
 * Apache Hadoop®
 
-
+Support for geo, numeric range, and full-text search via:
+* ElasticSearch™
+* Apache Solr™
+* Apache Lucene®
 
 [![JanusGraph logo](janusgraph.png)](http://janusgraph.org/)
 
