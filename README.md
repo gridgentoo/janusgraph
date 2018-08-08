@@ -23,6 +23,18 @@ Support for geo, numeric range, and full-text search via:
 * Apache Solr™
 * Apache Lucene®
 
+Native integration with the Apache TinkerPop™ graph stack:
+* Gremlin graph query language
+* Gremlin graph server
+* Gremlin applications
+
+You can visualize graphs stored in JanusGraph via any of the following tools:
+* Cytoscape
+* Gephi plugin for Apache TinkerPop
+* Graphexp
+* KeyLines by Cambridge Intelligence
+* Linkurious
+
 [![JanusGraph logo](janusgraph.png)](http://janusgraph.org/)
 
 JanusGraph is a highly scalable [graph database](http://en.wikipedia.org/wiki/Graph_database)
