@@ -1,4 +1,9 @@
+JanusGraph Journey
+
+https://www.youtube.com/watch?v=1TQcPWgPvF8
+
 HBaseCon2017 Community-Driven Graphs with JanusGraph
+
 https://www.youtube.com/watch?v=rBI95lB0osU
 
 
