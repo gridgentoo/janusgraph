@@ -7,36 +7,12 @@ HBaseCon2017 Community-Driven Graphs with JanusGraph
 
 https://www.youtube.com/watch?v=rBI95lB0osU
 
-In addition, JanusGraph provides the following features:
-
-Elastic and linear scalability for a growing data and user base.
-Data distribution and replication for performance and fault tolerance.
-Multi-datacenter high availability and hot backups.
-Support for ACID and eventual consistency.
 Support for various storage backends:
-Apache Cassandra®
-Apache HBase®
-Google Cloud Bigtable
-Oracle BerkeleyDB
-Support for global graph data analytics, reporting, and ETL through integration with big data platforms:
-Apache Spark™
-Apache Giraph™
-Apache Hadoop®
-Support for geo, numeric range, and full-text search via:
-ElasticSearch™
-Apache Solr™
-Apache Lucene®
-Native integration with the Apache TinkerPop™ graph stack:
-Gremlin graph query language
-Gremlin graph server
-Gremlin applications
-Open source under the Apache 2 license.
-You can visualize graphs stored in JanusGraph via any of the following tools:
-Cytoscape
-Gephi plugin for Apache TinkerPop
-Graphexp
-KeyLines by Cambridge Intelligence
-Linkurious
+* Apache Cassandra®
+* Apache HBase®
+* Google Cloud Bigtable
+* Oracle BerkeleyDB
+
 
 
 [![JanusGraph logo](janusgraph.png)](http://janusgraph.org/)
