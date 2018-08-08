@@ -1,3 +1,7 @@
+IBM Compose for JanusGraph: Conceptual Overview
+![Image alt](https://i.ytimg.com/vi/zTaoMWv6lnE/maxresdefault.jpg)
+https://www.youtube.com/watch?v=zTaoMWv6lnE
+
 ![Image alt](https://i.ytimg.com/vi/1TQcPWgPvF8/maxresdefault.jpg)
 JanusGraph Journey
 
