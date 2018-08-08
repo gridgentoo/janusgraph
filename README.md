@@ -1,3 +1,7 @@
+HBaseCon2017 Community-Driven Graphs with JanusGraph
+https://www.youtube.com/watch?v=rBI95lB0osU
+
+
 [![JanusGraph logo](janusgraph.png)](http://janusgraph.org/)
 
 JanusGraph is a highly scalable [graph database](http://en.wikipedia.org/wiki/Graph_database)
