@@ -13,6 +13,11 @@ Support for various storage backends:
 * Google Cloud Bigtable
 * Oracle BerkeleyDB
 
+Support for global graph data analytics, reporting, and ETL through integration with big data platforms:
+* Apache Spark™
+* Apache Giraph™
+* Apache Hadoop®
+
 
 
 [![JanusGraph logo](janusgraph.png)](http://janusgraph.org/)
